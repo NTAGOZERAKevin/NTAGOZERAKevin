@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NTAGOZERAKevin/NTAGOZERAKevin/blob/main/%7B8B508C0A-767D-4D59-8BC2-8B90AF94CA9F%7D.png" alt="Ntagozera Kevin Banner" width="100%" />
+</p>
+
 # 💫 Hi 👋, I'm NTAGOZERA Kevin
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
