@@ -28,11 +28,11 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntagozera&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamimran613&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=alamimran613&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntagozera&theme=radical">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ntagozera&theme=radical&utcOffset=8">
+
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ntagozera&theme=radical">
 
 </div>
 
