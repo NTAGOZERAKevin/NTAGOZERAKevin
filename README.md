@@ -30,9 +30,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamimran613&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntagozera&theme=radical">
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ntagozera&theme=radical&utcOffset=8">
 
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ntagozera&theme=radical">
 
 </div>
 
