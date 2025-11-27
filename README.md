@@ -2,10 +2,18 @@
   <img src="https://github.com/NTAGOZERAKevin/NTAGOZERAKevin/blob/main/%7B8B508C0A-767D-4D59-8BC2-8B90AF94CA9F%7D.png" alt="Ntagozera Kevin Banner" width="100%" />
 </p>
 
-# 💫 Hi 👋, I'm NTAGOZERA Kevin
 
 
-Email Me 👉 ✉️ **ntagozerakevin@gmail.com** 😊😊
+
+
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Hardcore+Gamer;Next.Js+Lover;Always+Learning+New+Tech😉)
+
+</div>
+
+
 
 ## 🔗 I am a Content Creator. 😊😊
 
